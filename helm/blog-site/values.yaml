@@ -1,4 +1,4 @@
 image:
   repository: malaynew07/shadow-shift-blog
   pullPolicy: Always
-  tag: v1.0.11
+  tag: v1.0.12
